@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java, Node, PHP and Angular.
 - 🌱 I’m currently learning Java, Node, PHP and Angular.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me reginaldo.leobino@fatec.gov.br
 
 <!---
 reginaldoljr/reginaldoljr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
