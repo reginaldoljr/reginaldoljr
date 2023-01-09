@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @reginaldoljr
-- 👀 I’m interested in Java, Node, PHP and Angular.
-- 🌱 I’m currently learning Java, Node, PHP and Angular.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @reginaldoljr and 26yrs
+- 👀 I’m interested in Tech
+- 🌱 I’m currently learning about Jesus
+- 💞️ I’m looking to collaborate on your life
 - 📫 How to reach me reginaldo.leobino@fatec.gov.br
 
 <!---
